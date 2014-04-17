@@ -2,3 +2,4 @@
 /develop-eggs/
 .installed.cfg
 /bin/
+/_build/
