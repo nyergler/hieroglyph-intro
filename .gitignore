@@ -3,3 +3,7 @@
 .installed.cfg
 /bin/
 /_build/
+/lib/
+/include/
+/.Python
+/pip-selfcheck.json
