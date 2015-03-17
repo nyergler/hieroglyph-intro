@@ -121,15 +121,6 @@ Slides
 
 .. figure:: /_static/pdb-slides.png
 
-What's Next
-===========
-
-Sprinting Monday & Tuesday on:
-
-* Finish updating base HTML + Javascript
-* More comprehensive documentation
-* PDF Export
-
 Thank you!
 ==========
 
