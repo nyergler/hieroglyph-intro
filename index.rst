@@ -1,3 +1,6 @@
+.. rst-class::
+   title_image
+
 ==========
 Hieroglyph
 ==========
@@ -5,7 +8,6 @@ Hieroglyph
 .. ifslides::
 
    .. figure:: /_static/hieroglyphs.jpg
-      :class: fill
 
       CC BY-SA http://www.flickr.com/photos/tamburix/2900909093/
 

@@ -276,7 +276,7 @@ extensions += [
 ]
 
 slide_title = 'Welcome to Hieroglyph'
-slide_theme = 'single-level'
+slide_theme = 'slides2'
 slide_levels = 3
 
 slide_theme_options = {
